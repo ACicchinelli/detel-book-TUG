@@ -35,9 +35,9 @@ Before focusing on the systematic review of the literature, it is considered rel
 
 ## Systematic Literature Review-Definition
 
-Systematic literature review (also referred to as a systematic review) is a form of secondary study that uses a well-defined methodology to identify, analyse and interpret all available evidence related to a specific research question (Kitchenham, B. & Charters, S. 2007)
+Systematic literature review (also referred to as a systematic review) is a form of secondary study that uses a well-defined methodology to identify, analyse and interpret all available evidence related to a specific research question (Kitchenham, B. & Charters, S. 2007).
 
-Systematic reviews can be defined as “a review of existing research using explicit, accountable  rigorous research methods” (Mark Newman and David Gough, 2020)
+Systematic reviews can be defined as “a review of existing research using explicit, accountable  rigorous research methods” (Mark Newman and David Gough, 2020).
 
 ### Glossary
 
